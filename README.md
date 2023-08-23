@@ -32,4 +32,8 @@ https://github.com/name234532/MyTamp/assets/89058195/e3f56ad3-a422-4f59-bd28-431
 
 전방 5m이내에 사람 얼굴을 인식 할 경우 테두리를 빨갛게 함으로써 경고표시 
 
-5. 
+5. 전체
+
+
+https://github.com/name234532/MyTamp/assets/89058195/cccabe00-3e0e-42f8-ba98-0133cde62f03
+
